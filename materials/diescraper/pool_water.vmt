@@ -1,0 +1,48 @@
+"Water"
+{
+	"$abovewater" 1
+	"%tooltexture" "nature/water_frame01_normal"
+	"$refractamount" ".4"
+	//"$refracttint" "[0.95 1.0 0.97]"
+
+	"$reflectamount" ".8"
+	"$reflecttint" "[0.9 0.9 1]"
+
+	"$reflecttexture" "_rt_WaterReflection"
+	"$refract" 1
+
+	//"$scale" "[1 1]"
+
+	"$bumpmap" "nature/water_frame01_dudv"
+	"$normalmap" "nature/water_frame01_normal"
+
+	"%compilewater" 1
+	"$surfaceprop" "water"
+	"$bottommaterial" "diescraper/pool_water_beneath"
+	"$bumpframe" "0"
+
+	"$fogenable" 1
+	"$fogcolor" "{30 36 40}"
+	"$fogstart" 0.00
+	"$fogend" 135.00
+
+
+	"$scroll1" "[.01 .01 .02]"
+	"$scroll2" "[-.01 .01 .025]"
+
+
+	"Proxies"
+	{
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$bumptransform"
+			"texturescrollrate" .02
+			"texturescrollangle" 45.00
+		}
+
+		"WaterLOD"
+		{
+		}
+	}
+}

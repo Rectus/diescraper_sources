@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$basetexture	"models\bunker\mre_box"
+	$surfaceprop 	cardboard
+}

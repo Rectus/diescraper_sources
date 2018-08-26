@@ -1,0 +1,765 @@
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "809.6265258789 -478.7634887695 -77.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "643.0571899414 -286.9676513672 -77.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "783.0744628906 -300.4861450195 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "1421.7330322266 88.2928237915 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "1217.1203613281 63.927520752 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "1235.9058837891 -121.2840805054 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "1375.744140625 -119.1327667236 -111.9687423706"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "1275.4019775391 -8.3163127899 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "809.0057983398 814.8664550781 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "809.7536621094 476.4111328125 -111.9687576294"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "828.7857666016 385.6319580078 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "226.4833831787 701.1352539063 66.03125"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "293.1411132813 633.7036743164 32.03125"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-218.2274932861 696.3510742188 70.4106445313"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-82.6957321167 696.9957885742 32.03125"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-479.7100830078 671.8001708984 32.03125"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-731.1273193359 511.5710144043 32.03125"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-646.1945800781 560.1318359375 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-706.5463256836 576.2216796875 -72.261756897"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-636.1815795898 611.627746582 -72.2617492676"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-173.1160736084 706.7477416992 -71.989440918"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-26.8106384277 706.8593139648 -71.9416809082"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-10.2032546997 282.9676208496 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-736.9450683594 249.1285400391 -207.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-584.3737182617 231.1219482422 -207.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-686.9849853516 -112.1649017334 -175.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-740.9757080078 -283.6163635254 -111.9687347412"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-648.4557495117 -628.4100341797 70.4106445313"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-502.6754760742 -674.4600830078 32.03125"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-249.2837371826 -625.8902587891 66.03125"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "41.6480178833 -686.2756958008 62.0312461853"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "167.0191955566 -689.9323730469 62.0312461853"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "137.4444885254 -639.9343261719 62.0312461853"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "295.3129882813 -591.5091552734 32.03125"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-176.7533416748 -282.6190795898 32.03125"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-322.96875 -242.996963501 39.8159141541"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "47.0175857544 -138.9891357422 32.03125"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "477.6131286621 -568.6742553711 32.03125"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "697.1459960938 -262.9343261719 32.0312538147"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "554.4044189453 -140.4364929199 -67.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "620.6942138672 -134.1775817871 -67.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-58.4782142639 844.0393066406 -255.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-155.1769714355 734.8970947266 -255.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "1367.8197021484 -3.3700752258 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "1205.4287109375 -6.5491142273 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "1311.5135498047 112.4054412842 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "1315.7299804688 -128.5489044189 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "1457.1413574219 -51.5633621216 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "285.6219482422 749.4280395508 -77.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "339.0261535645 630.9046020508 -77.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "111.89112854 774.1889038086 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-496.6087646484 771.8076782227 -67.9324951172"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-249.9131774902 -229.6069641113 176.03125"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "151.9173431396 -221.1186218262 176.03125"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-85.0074157715 -329.263092041 208.8350982666"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-19.6337623596 311.7231445313 176.03125"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "260.03125 162.8161773682 218.2378845215"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "174.2254638672 177.2918395996 -286.073059082"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-56.5238685608 269.8670349121 -255.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-244.2429962158 -756.0930786133 -77.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-296.9317626953 -808.0431518555 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-457.0682983398 -761.6600341797 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-10.7670192719 -793.1929931641 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "298.1388244629 -765.9280395508 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "635.2601318359 -610.55859375 -77.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "536.1999511719 -764.6478881836 -111.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "194.2481079102 -690.0662841797 -77.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-755.2422485352 446.3926086426 -255.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-725.2238769531 840.8664550781 -255.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-738.6516723633 649.7821044922 -255.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-637.9405517578 -304.7142028809 -255.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-719.7242431641 -339.5154724121 -221.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-664.252746582 -711.6461791992 -255.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-390.7145690918 -743.2663574219 -255.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-127.7865447998 -720.0482177734 -255.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "100.4635620117 -691.0263061523 -255.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "228.5375366211 -586.780456543 -255.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "294.3166809082 -453.7502441406 -234.9039154053"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-758.2072753906 -437.7050476074 -255.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-14.8574676514 -210.045715332 -255.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-97.340423584 -266.8338317871 -255.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "-335.083404541 -8.5107955933 -255.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "444.7249755859 251.2013549805 -79.0893173218"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "624.4443969727 819.2087402344 -71.0601882935"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gunhunt_item_spawn"
+	"filename" ""
+	"origin" "566.1424560547 -196.9974060059 61.1074371338"
+	"group" 0
+	"rarity" 0
+}

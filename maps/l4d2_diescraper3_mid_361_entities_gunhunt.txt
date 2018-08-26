@@ -1,0 +1,540 @@
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "1255.0533447266 975.9817504883 -1416.8636474609"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "804.2382202148 788.3413696289 -1424.9353027344"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "792.7190551758 748.2426757813 -1423.6286621094"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "976.5277099609 467.1131591797 -1433.5994873047"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "469.9365539551 1183.658203125 -1415.9895019531"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "786.8852539063 1289.7818603516 -1411.9324951172"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "784.5106201172 1281.021484375 -1247.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "732.7553100586 1204.3845214844 -1247.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "54.8240776062 1190.8677978516 -1211.9324951172"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-27.6870307922 1285.3704833984 -1255.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "417.6669311523 42.4827575684 -1177.9952392578"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "435.0221557617 -375.7592468262 -1215.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-227.8651123047 -572.3866577148 -1179.9615478516"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-306.175567627 -566.2819213867 -1179.9615478516"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-528.325378418 -271.967956543 -1185.025390625"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-525.2450561523 -350.1932067871 -1185.025390625"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-303.8424682617 28.6858825684 -1215.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-186.8064575195 87.0274429321 -1215.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-185.7668762207 -7.1652331352 -1215.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-343.7527160645 -245.5016021729 -1127.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-72.6852798462 -507.4572753906 -1455.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-164.1931304932 -549.2076416016 -1455.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-165.3611450195 -450.1067199707 -1455.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-270.184967041 -535.30078125 -1417.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-313.8293457031 -533.9572753906 -1455.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-59.6527557373 -560.3369750977 -1455.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "247.4611968994 -1217.0354003906 -1408.4216308594"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "176.0717163086 -1313.9254150391 -1455.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-33.0015945435 -1293.4240722656 -1415.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-64.4203872681 -1354.5809326172 -1455.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "968.6676025391 -677.4271850586 -1426.0252685547"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "940.249206543 -707.0216064453 -1426.0252685547"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "1241.3201904297 -453.1909179688 -1405.044921875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "1205.3603515625 -190.454208374 -1455.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "1299.5661621094 -788.2020874023 -1455.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-567.5717163086 194.3132629395 -1167.0899658203"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-584.4880371094 702.1330566406 -1455.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-559.3843383789 1099.8377685547 -1455.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-47.5954551697 1111.4742431641 -1431.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "230.8705749512 626.0837402344 -1431.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "216.1136474609 866.37890625 -1391.6882324219"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "968.4400024414 -1302.1899414063 -1455.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "1307.3162841797 215.9651184082 -1454.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-311.7377319336 894.2828979492 -1407.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-822.9232177734 117.7622680664 -1391.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-501.6734619141 525.6428833008 -1391.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-473.112487793 -29.1298866272 -1551.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-1267.845703125 -763.5997314453 -1347.978515625"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-1230.2502441406 -458.4161987305 -1391.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-1322.5550537109 -1313.6020507813 -1391.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-790.512878418 -1247.0305175781 -1347.9779052734"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-603.568359375 -724.5717773438 -1455.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-287.6924438477 -897.0690307617 -1407.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "458.5868225098 -308.6791381836 -1455.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "904.4226074219 14.9062957764 -1411.9189453125"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-439.2612304688 677.6318969727 -1215.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "428.9384460449 -724.5435180664 -1348.1328125"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-1014.4984130859 1012.4763183594 -1391.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-23.8710403442 192.6423339844 -1455.96875"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "randomspawner_item_spawn"
+	"filename" ""
+	"origin" "-40.0494766235 334.2400817871 -1455.96875"
+	"group" 0
+	"rarity" 0
+}

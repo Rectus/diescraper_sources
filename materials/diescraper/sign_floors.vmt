@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+$baseTexture "diescraper/sign_floors"
+$surfaceprop default
+$translucent 1
+$decal 1
+}

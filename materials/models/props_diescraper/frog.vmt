@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$baseTexture "models\props_diescraper\frog"
+	$bumpmap "models\props_diescraper\frog_normal"
+}

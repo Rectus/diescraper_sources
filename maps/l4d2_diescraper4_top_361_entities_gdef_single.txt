@@ -1,0 +1,84 @@
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gdef_gnome_spawn"
+	"filename" "F:\steamcache\left 4 dead 2\left4dead2\scripts\vscripts\entitygroups\gdef_gnome_group.nut"
+	"origin" "691.6848144531 372.6172790527 -126.9687576294"
+	"angles" "-0 185.9087371826 0"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gdef_workbench_spawn"
+	"filename" "F:\steamcache\left 4 dead 2\left4dead2\scripts\vscripts\entitygroups\gdef_workbench_spawndummy.nut"
+	"origin" "613.5299072266 -97.6553497314 -127.7012634277"
+	"angles" "-0 270.065246582 0"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gdef_barricade_build_spawn"
+	"filename" "F:\steamcache\left 4 dead 2\left4dead2\scripts\vscripts\entitygroups\gdef_barricade_build_spawndummy.nut"
+	"origin" "418.4383850098 66.2318115234 -127.71875"
+	"angles" "-0 357.8004760742 0"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gdef_vending_machine_spawn"
+	"filename" "F:\steamcache\left 4 dead 2\left4dead2\scripts\vscripts\entitygroups\gdef_vending_machine_group.nut"
+	"origin" "767.8141479492 841.2641601563 -127.9687652588"
+	"angles" "-0 271.189453125 0"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "playerstart_001"
+	"filename" ""
+	"origin" "663.2800292969 1.8700000048 -111.9700012207"
+	"angles" "-0 97.5800018311 0"
+	"group" 0
+	"rarity" 0
+	"nameindex" 1
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "playerstart_002"
+	"filename" ""
+	"origin" "553.3063964844 10.5167770386 -111.96875"
+	"angles" "-0 84.6924972534 0"
+	"group" 0
+	"rarity" 0
+	"nameindex" 2
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "playerstart_003"
+	"filename" ""
+	"origin" "648.9475097656 117.614440918 -111.96875"
+	"angles" "-0 100.1330947876 0"
+	"group" 0
+	"rarity" 0
+	"nameindex" 3
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "playerstart_004"
+	"filename" ""
+	"origin" "559.7267456055 117.4536819458 -111.96875"
+	"angles" "-0 89.80519104 0"
+	"group" 0
+	"rarity" 0
+	"nameindex" 4
+}

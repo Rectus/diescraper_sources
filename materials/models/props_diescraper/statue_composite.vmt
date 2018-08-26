@@ -1,0 +1,21 @@
+VertexLitGeneric
+{
+	GPU<2?$color2 "[1.0 1.0 1.0]"
+	GPU>=2?$color2 "[0.3 0.3 0.3]"
+	
+	$basetexture "models\props_diescraper\statue_composite"
+	$bumpmap "models\props_diescraper\statue_composite_normal"
+	$envmap env_cubemap
+	//$basealphaenvmapmask 1
+	$envmaptint "[0.7 0.7 0.7]"
+	// $envmapcontrast 0
+	// $envmapsaturation 1
+	// $envmapfresnel 1
+	// $halflambert 1
+		
+	GPU>=3?$phong 1
+	$phongboost 5
+	$phongexponent 100
+	$phongfresnelranges "[5 5 20]"
+	$BASEMAPLUMINANCEPHONGMASK 1
+}

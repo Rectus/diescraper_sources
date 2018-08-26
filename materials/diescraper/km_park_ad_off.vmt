@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+$baseTexture "diescraper/km_park_ad"
+$envmap env_cubemap
+$envmaptint "[0.4 0.4 0.4]"
+$envmapmask "ads\subwayhorizontal_ref"
+$surfaceprop glass
+}

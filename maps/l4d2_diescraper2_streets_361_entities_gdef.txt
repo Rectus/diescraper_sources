@@ -1,0 +1,114 @@
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gdef_gnome_spawn"
+	"filename" "F:\steamcache\left 4 dead 2\left4dead2\scripts\vscripts\entitygroups\gdef_gnome_group.nut"
+	"origin" "6668.2861328125 64.0286636353 89.03125"
+	"angles" "-0 181.9433898926 0"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "playerstart_001"
+	"filename" ""
+	"origin" "6259.37890625 -176.9974517822 16.03125"
+	"angles" "-0 40.3766555786 0"
+	"group" 0
+	"rarity" 0
+	"nameindex" 1
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "playerstart_002"
+	"filename" ""
+	"origin" "6248.6474609375 -101.3813781738 16.03125"
+	"angles" "-0 21.4597606659 0"
+	"group" 0
+	"rarity" 0
+	"nameindex" 2
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "playerstart_003"
+	"filename" ""
+	"origin" "6347.7275390625 -158.4687194824 16.03125"
+	"angles" "-0 56.4305458069 0"
+	"group" 0
+	"rarity" 0
+	"nameindex" 3
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "playerstart_004"
+	"filename" ""
+	"origin" "6332.7036132813 -81.2281799316 16.03125"
+	"angles" "-0 27.4927654266 0"
+	"group" 0
+	"rarity" 0
+	"nameindex" 4
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gdef_workbench_spawn"
+	"filename" "F:\steamcache\left 4 dead 2\left4dead2\scripts\vscripts\entitygroups\gdef_workbench_spawndummy.nut"
+	"origin" "6372.2998046875 -2.2999999523 0"
+	"angles" "-0 43.9599990845 0"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gdef_barricade_build_spawn"
+	"filename" "F:\steamcache\left 4 dead 2\left4dead2\scripts\vscripts\entitygroups\gdef_barricade_build_spawndummy.nut"
+	"origin" "5774.0751953125 332.9672241211 0.28125"
+	"angles" "-0 273.7239074707 0"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "gdef_vending_machine_spawn"
+	"filename" "F:\steamcache\left 4 dead 2\left4dead2\scripts\vscripts\entitygroups\gdef_vending_machine_group.nut"
+	"origin" "5966.2099609375 -472.9700012207 0.0299999993"
+	"angles" "-0 90.6900024414 0"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "wrongway_barrier_spawn"
+	"filename" "F:\steamcache\left 4 dead 2\sdk_content\scripting\scripts\vscripts\entitygroups\wrongway_barrier_group.nut"
+	"origin" "4349.970703125 -821.9729614258 1.5425949097"
+	"angles" "-0 88.8888473511 0"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "wrongway_barrier_spawn"
+	"filename" "F:\steamcache\left 4 dead 2\sdk_content\scripting\scripts\vscripts\entitygroups\wrongway_barrier_group.nut"
+	"origin" "9147.873046875 2188.3718261719 148.593536377"
+	"angles" "-0 272.5403442383 0"
+	"group" 0
+	"rarity" 0
+}
+"entity"
+{
+	"classname" "info_item_position"
+	"targetname" "wrongway_barrier_spawn"
+	"filename" "F:\steamcache\left 4 dead 2\sdk_content\scripting\scripts\vscripts\entitygroups\wrongway_barrier_group.nut"
+	"origin" "4574.4331054688 -821.7327270508 1.5145950317"
+	"angles" "-0 88.6745300293 0"
+	"group" 0
+	"rarity" 0
+}

@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+	$baseTexture "diescraper/evac_plan"
+	$surfaceprop default
+	$translucent 1
+	$decal 1
+}

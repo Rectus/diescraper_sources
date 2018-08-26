@@ -1,0 +1,6 @@
+VertexLitGeneric
+{
+	$basetexture "metal/metal_ibeam01"
+	$surfaceprop "metal"
+	$basetexturetransform "center 0 0 scale 0.5 1 rotate 0 translate 0 0"
+}

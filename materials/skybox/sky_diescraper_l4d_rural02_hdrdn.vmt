@@ -1,0 +1,7 @@
+sky
+{
+$hdrcompressedTexture "skybox/sky_l4d_rural02_hdrdn"
+$nofog 1
+$ignorez 1
+$color "[ 1.2 1.2 1.2 ]"
+}

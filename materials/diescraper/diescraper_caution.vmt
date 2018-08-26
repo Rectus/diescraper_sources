@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+$baseTexture "diescraper/diescraper_caution"
+$surfaceprop default
+$translucent 1
+$decal 1
+$nocull 1
+}

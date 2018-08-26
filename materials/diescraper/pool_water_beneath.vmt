@@ -1,0 +1,40 @@
+"Water"
+{
+	"$abovewater" 0
+	"%tooltexture" "nature/water_frame01_normal"
+	"$refractamount" ".8"
+	//"$refracttint" "[0.95 1.0 0.97]"
+	"$refract" 1
+
+	"$bumpmap" "nature/water_frame01_dudv"
+	"$normalmap" "nature/water_frame01_normal"
+
+	"%compilewater" 1
+	"$surfaceprop" "water"
+
+	"$bumpframe" "0"
+
+	"$fogenable" 1
+	"$fogcolor" "{20 22 24}"
+	"$fogstart" 0.00
+	"$fogend" 1024.00
+
+	"$scroll1" "[.01 .01 .02]"
+	"$scroll2" "[-.01 .01 .025]"
+
+	"Proxies"
+	{
+
+		"TextureScroll"
+		{
+			"texturescrollvar" "$bumptransform"
+			"texturescrollrate" .01
+			"texturescrollangle" 45.00
+		}
+
+		"WaterLOD"
+		{
+		}
+	}
+}
+

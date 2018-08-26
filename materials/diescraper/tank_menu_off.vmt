@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+$baseTexture "diescraper/tank_menu"
+$envmap env_cubemap
+$envmapmask "signs\menu01_ref"
+$surfaceprop glass
+}

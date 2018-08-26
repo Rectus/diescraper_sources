@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+$baseTexture "signs/signage_subway_entrance"
+$surfaceprop glass
+}

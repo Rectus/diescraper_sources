@@ -1,0 +1,6 @@
+sky
+{
+$hdrcompressedTexture "skybox/sky_day01_09_hdrdn"
+$nofog 1
+$ignorez 1
+}

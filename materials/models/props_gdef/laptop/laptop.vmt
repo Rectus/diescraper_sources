@@ -1,0 +1,10 @@
+VertexLitGeneric
+{
+	$baseTexture "models\props_gdef\laptop\laptop"
+	$bumpmap "models\props_gdef\laptop\laptop_normal"
+	$phong 1
+	$phongboost 2
+	$phongexponent 5
+	$phongfresnelranges "[.2 .5 1]"
+	$basemapalphaphongmask 1
+}

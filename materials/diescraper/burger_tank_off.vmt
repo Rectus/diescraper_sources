@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+$baseTexture "models\props_signs/burger_tank_off"
+$envmap env_cubemap
+$envmaptint "[.35 .35 .35]"
+$surfaceprop glass
+}

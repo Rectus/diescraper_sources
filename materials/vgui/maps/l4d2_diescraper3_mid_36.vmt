@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+$basetexture "vgui/maps/l4d2_diescraper3_mid_36"
+$translucent 1
+$vertexalpha 1
+$vertexcolor 1
+$ignorez 1
+}

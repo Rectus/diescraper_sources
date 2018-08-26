@@ -1,0 +1,8 @@
+LightmappedGeneric
+{
+$baseTexture "tile/wall_white01"
+$Surfaceprop tile
+$bumpmap "tile/wall_white01-ssbump"
+$ssbump 1
+$bumptransform "center 0 0 scale 2 2 rotate 0 translate 0 0"
+}

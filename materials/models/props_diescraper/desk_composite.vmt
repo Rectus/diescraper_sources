@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$baseTexture "models\props_diescraper\desk_composite"
+	
+	$envmap env_cubemap
+	$envmaptint "[0.2 0.2 0.2]"
+}

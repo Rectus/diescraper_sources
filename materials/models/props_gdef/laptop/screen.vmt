@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$baseTexture "tools/toolsblack"
+
+	$envmap env_cubemap
+	$envmaptint "[ 0.3 0.3 0.3 ]"
+}

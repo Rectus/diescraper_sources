@@ -1,0 +1,7 @@
+LightmappedGeneric
+{
+$baseTexture "diescraper/km_park_ad"
+$selfillum 1
+$selfillumtint "[ .1 .1 .1 ]"
+$surfaceprop glass
+}
